@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe85ccee-73e4-4ea4-8c90-9ecd6986cd37" name="Changes" comment="Added Plane and CabinCrew entities commit">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="276YOXhnoNenWLopqfWW0Rm48BP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +50,35 @@
       <option name="presentableId" value="Default" />
       <updated>1648641973724</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1648642500034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648642500034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="User and Flight Entitiy Commit">
+      <created>1648655001361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648655001361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="User and Flight Entitiy Commit">
+      <created>1648655244195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648655244195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="User and Flight Entitiy Commit">
+      <created>1648655280993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648655280993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,4 +92,5 @@
       </map>
     </option>
   </component>
+
 </project>
